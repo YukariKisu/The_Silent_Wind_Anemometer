@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/yukari/esp-idf-v4.4/wind_anemometer/build/CMakeFiles/bootloader
+/home/yukari/esp-idf-v4.4/wind_anemometer/build/CMakeFiles/bootloader.rule
+/home/yukari/esp-idf-v4.4/wind_anemometer/build/CMakeFiles/bootloader-complete.rule
+/home/yukari/esp-idf-v4.4/wind_anemometer/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/yukari/esp-idf-v4.4/wind_anemometer/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/yukari/esp-idf-v4.4/wind_anemometer/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/yukari/esp-idf-v4.4/wind_anemometer/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/yukari/esp-idf-v4.4/wind_anemometer/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/yukari/esp-idf-v4.4/wind_anemometer/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/yukari/esp-idf-v4.4/wind_anemometer/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

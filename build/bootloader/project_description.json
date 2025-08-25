@@ -1,0 +1,21 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "/home/yukari/esp-idf-v4.4/components/bootloader/subproject",
+    "build_dir":          "/home/yukari/esp-idf-v4.4/wind_anemometer/build/bootloader",
+    "config_file":        "/home/yukari/esp-idf-v4.4/wind_anemometer/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.4",
+    "target":             "esp32",
+    "rev":                "0",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "/home/yukari/esp-idf-v4.4/components/efuse/Kconfig;/home/yukari/esp-idf-v4.4/components/esp32/Kconfig;/home/yukari/esp-idf-v4.4/components/esp_common/Kconfig;/home/yukari/esp-idf-v4.4/components/esp_hw_support/Kconfig;/home/yukari/esp-idf-v4.4/components/esp_system/Kconfig;/home/yukari/esp-idf-v4.4/components/freertos/Kconfig;/home/yukari/esp-idf-v4.4/components/hal/Kconfig;/home/yukari/esp-idf-v4.4/components/log/Kconfig;/home/yukari/esp-idf-v4.4/components/newlib/Kconfig;/home/yukari/esp-idf-v4.4/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "/home/yukari/esp-idf-v4.4/components/bootloader/Kconfig.projbuild;/home/yukari/esp-idf-v4.4/components/esp_rom/Kconfig.projbuild;/home/yukari/esp-idf-v4.4/components/esptool_py/Kconfig.projbuild;/home/yukari/esp-idf-v4.4/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "freertos", "hal", "log", "main", "micro-ecc", "newlib", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "/home/yukari/esp-idf-v4.4/components/bootloader", "/home/yukari/esp-idf-v4.4/components/bootloader_support", "/home/yukari/esp-idf-v4.4/components/efuse", "/home/yukari/esp-idf-v4.4/components/esp32", "/home/yukari/esp-idf-v4.4/components/esp_common", "/home/yukari/esp-idf-v4.4/components/esp_hw_support", "/home/yukari/esp-idf-v4.4/components/esp_rom", "/home/yukari/esp-idf-v4.4/components/esp_system", "/home/yukari/esp-idf-v4.4/components/esptool_py", "/home/yukari/esp-idf-v4.4/components/freertos", "/home/yukari/esp-idf-v4.4/components/hal", "/home/yukari/esp-idf-v4.4/components/log", "/home/yukari/esp-idf-v4.4/components/bootloader/subproject/main", "/home/yukari/esp-idf-v4.4/components/bootloader/subproject/components/micro-ecc", "/home/yukari/esp-idf-v4.4/components/newlib", "/home/yukari/esp-idf-v4.4/components/partition_table", "/home/yukari/esp-idf-v4.4/components/soc", "/home/yukari/esp-idf-v4.4/components/spi_flash", "/home/yukari/esp-idf-v4.4/components/xtensa", "" ]
+}

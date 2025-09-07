@@ -76,4 +76,15 @@ This document explains all the technical aspects of the project, including schem
 --
 
 📹 Project Demo
+--
 [Watch the video](https://youtube.com/shorts/8MpDWLDMlbw)
+
+🧣 Scarf
+--
+![Scarf Outline](https://www.yukarikisu.com/docs/work1/img/Scarf.jpg)
+![Hand Structure](https://www.yukarikisu.com/docs/work1/img/Scarf2.jpg)
+
+💍 Earring
+--
+![Earring Shape](https://www.yukarikisu.com/docs/work1/img/Earring.jpg)
+![Earring Bottom](https://www.yukarikisu.com/docs/work1/img/Earring2.jpg)

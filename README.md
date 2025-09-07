@@ -74,3 +74,6 @@ This document explains all the technical aspects of the project, including schem
 
 🎥 Visuals
 --
+
+📹 Project Demo
+[Watch the video](https://youtube.com/shorts/8MpDWLDMlbw)

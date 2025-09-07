@@ -77,7 +77,7 @@ This document explains all the technical aspects of the project, including schem
 
 📹 Project Demo
 --
-[Watch the video](https://youtube.com/shorts/8MpDWLDMlbw)
+[Watch the video](https://www.instagram.com/reel/DOUGyMeDVAm/?igsh=azRqbjY3b243MDl3)
 
 🧣 Scarf
 --
